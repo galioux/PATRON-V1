@@ -23,9 +23,9 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['.'];
-global.owner = ['242066328691'];
-global.ownMain = '242066328691';
-global.NamaOwner = 'DATA JOKER'; // Do not change 
+global.owner = ['242044190987'];
+global.ownMain = '242044190987';
+global.NamaOwner = 'BLOOD JOKER'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
 global.namabot = 'DATA JOKER'; // Do not change
